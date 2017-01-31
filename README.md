@@ -1,6 +1,6 @@
 
 example 
-background-image:url('/TimThumb.phpw=240&h=220&src=https://host/path-to-image');
+background-image:url('/TimThumb.php?w=240&h=220&src=https://host/path-to-image');
 
 
 # TimThumb
