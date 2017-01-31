@@ -1,3 +1,8 @@
+
+example 
+background-image:url('/TimThumb.phpw=240&h=220&src=https://host/path-to-image');
+
+
 # TimThumb
 
 TimThumb is a simple, flexible, PHP script that resizes images.
